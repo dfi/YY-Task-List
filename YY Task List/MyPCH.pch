@@ -1,0 +1,22 @@
+//
+//  MyPCH.pch
+//  YY Task List
+//
+//  Created by ppl on 11/11/14.
+//  Copyright (c) 2014 yyl. All rights reserved.
+//
+
+#ifndef YY_Task_List_MyPCH_pch
+#define YY_Task_List_MyPCH_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#define TASK_TITLE @"task title"
+#define TASK_DETAIL @"task description"
+#define TASK_DATE @"task date"
+#define TASK_COMPLETION @"task completion"
+
+#define ADDED_TASK @"added task"
+
+
+#endif
